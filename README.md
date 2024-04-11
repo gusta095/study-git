@@ -1,6 +1,11 @@
 # study-git
 
-1
-2
-3
-primeiro test commit na main
+- 1
+- 2
+- 3
+
+```console
+primeiro test
+segundo test
+terceiro test
+```
