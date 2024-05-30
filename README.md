@@ -9,3 +9,5 @@ primeiro test
 segundo test
 terceiro test
 ```
+
+- Treinamento de Git
